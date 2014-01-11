@@ -1,8 +1,7 @@
 solitaire-hacking
 =================
 
-Proof of Concept for my Splash class in November 2013 on hacking Solitaire.
-
+Proof of Concept for my Splash class in November 2013 on hacking Solitaire. Only tested on Windows 7 64-bit.
 
 Usage
 =====
